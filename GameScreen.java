@@ -16,10 +16,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.*;
 
-/**
- *
- * @author TripleB
- */
+
 public class GameScreen extends JPanel implements Runnable{
     Thread thread;
     MainCharacter main;
